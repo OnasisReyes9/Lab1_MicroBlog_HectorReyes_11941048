@@ -1,0 +1,38 @@
+/* Codigo CSS */
+
+body {
+    background-image: url(/imagenes/fondo_perros.jpg);
+}
+
+h1 {
+    color: cadetblue;
+    font-size: 1.5cm;
+    font-family: 'Zen Antique', serif;
+    text-align: center;
+}
+
+h3 {
+    color: crimson;
+    font-family: 'Zen Antique', serif;
+    font-size: 0.02;
+    text-align: justify;
+}
+
+p {
+    font-family: 'Patua One', cursive;
+    color: rgb(39, 99, 212);
+}
+
+#formato_cachorritos {
+    border: 7px solid black;
+}
+
+#formato_cachorritos:hover {
+    border: 7px solid rgb(68, 0, 68);
+    filter: sepia(60%);
+}
+
+#descripcion {
+    font-family: 'Patua One', cursive;
+    color: darkslateblue;
+}
